@@ -5,7 +5,7 @@ Codefellows 401 JavaScript
 ## Create a serverless REST API
 
 **Overview**
-
+- **This is the POST method used for the Lambda**
 - Create a single resource REST API using a domain model of your choosing, constructed using AWS Cloud Services
 - Database: DynamoDB
   - 1 Table required
