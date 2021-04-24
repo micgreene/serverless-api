@@ -34,6 +34,10 @@ Codefellows 401 JavaScript
 
 - dynamoose
 - uuid
+- Other Repos in Project:
+  - https://github.com/micgreene/serverless-api-read/blob/main/README.md
+  - https://github.com/micgreene/serverless-api-update/blob/main/README.md
+  - https://github.com/micgreene/serverless-api-delete/blob/main/README.md
 
 ### API Routes
 
